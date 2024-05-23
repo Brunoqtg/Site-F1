@@ -1,3 +1,10 @@
 .seta{
     font-size: 100px;
 }
+body{
+    background-image: url(https://mclaren.bloomreach.io/delivery/resources/content/gallery/mclaren-racing/downloads/2024/2024-japanese-livery-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white;
+}
