@@ -11,4 +11,14 @@ body{
     padding: 20px;
     border-radius: 15px;
 }
-body { cursor: url(alo1-removebg-preview.png),auto ;}
+body {
+    cursor: url(alo1-removebg-preview.png), auto;
+  }
+  body {
+    cursor: url(alo1-removebg-preview.png), auto;
+  }
+  #imagem{
+    width: 900px; height:900px;
+    background-color: #00ec85;
+    cursor: help;
+}
