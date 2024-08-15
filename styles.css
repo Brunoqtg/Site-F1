@@ -13,8 +13,8 @@ body{
 }
 header{
     background-color:
-    rgb(255, 0, 200);
+    rgb(255, 0, 0);
     padding: 60px;
     margin: auto;
-    width: 110%;
+    width: 90%;
 }
